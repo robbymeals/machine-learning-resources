@@ -1,12 +1,10 @@
 # machine-learning-resources
 
-## NLP
-
 ## Texts
 [Hal Daume's A Course in Machine Learning](http://ciml.info/)
 
-## Deep learning
+## Tools
 
-## Structured Prediction
+## Papers
 
-## Semi-supervised/Unsupervised Methods
+## Tutorials
